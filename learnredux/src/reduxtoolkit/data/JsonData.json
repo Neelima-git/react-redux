@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S21FE",
+      "src": "https://m.media-amazon.com/images/I/51fGq2WBjDL._SX300_SY300_QL70_FMwebp_.jpg",
+      "price": 54499
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S21",
+      "src": "https://m.media-amazon.com/images/I/614n6dbzqtL._SX425_.jpg",
+      "price": 59499
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy S22",
+      "src": "https://m.media-amazon.com/images/I/71wGLBDEsvL._SX425_.jpg",
+      "price": 75000
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy S22 Ultra",
+      "src": "https://m.media-amazon.com/images/I/71PvHfU+pwL._SX425_.jpg",
+      "price": 90000
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy S20",
+      "src": "https://m.media-amazon.com/images/I/41ezRvTwcaL._SX300_SY300_QL70_FMwebp_.jpg",
+      "price": 44500
+    }
+  ]
+}
